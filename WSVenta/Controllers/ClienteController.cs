@@ -21,7 +21,7 @@ namespace WSVenta.Controllers
                 using (VentalRealContext db = new VentalRealContext())      /* Lo que hace el using es eliminar todo lo que esta 
                                                                              * adentro de las llaves una vez se cierren. */
                 {
-                    var lst = db.Cliente.ToList();
+                    var lst = db.Cliente.OrderByDescending(d=>d.Id).ToList();
                     oRespuesta.Exito = 1;
                     oRespuesta.Data = lst;
                 }
