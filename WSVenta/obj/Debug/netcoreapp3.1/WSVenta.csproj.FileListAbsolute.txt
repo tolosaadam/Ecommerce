@@ -7,7 +7,6 @@ C:\Users\AdamTolosa\source\repos\WSVenta\WSVenta\bin\Debug\netcoreapp3.1\WSVenta
 C:\Users\AdamTolosa\source\repos\WSVenta\WSVenta\bin\Debug\netcoreapp3.1\WSVenta.runtimeconfig.dev.json
 C:\Users\AdamTolosa\source\repos\WSVenta\WSVenta\bin\Debug\netcoreapp3.1\WSVenta.dll
 C:\Users\AdamTolosa\source\repos\WSVenta\WSVenta\bin\Debug\netcoreapp3.1\WSVenta.pdb
-C:\Users\AdamTolosa\source\repos\WSVenta\WSVenta\obj\Debug\netcoreapp3.1\WSVenta.csprojAssemblyReference.cache
 C:\Users\AdamTolosa\source\repos\WSVenta\WSVenta\obj\Debug\netcoreapp3.1\WSVenta.AssemblyInfoInputs.cache
 C:\Users\AdamTolosa\source\repos\WSVenta\WSVenta\obj\Debug\netcoreapp3.1\WSVenta.AssemblyInfo.cs
 C:\Users\AdamTolosa\source\repos\WSVenta\WSVenta\obj\Debug\netcoreapp3.1\WSVenta.RazorTargetAssemblyInfo.cache
